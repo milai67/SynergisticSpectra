@@ -1,0 +1,26 @@
+{
+"name": "tynergisti-pectra",
+"version": "1.0.0",
+"description": "Enhance team productivity and project outcomes with our intuitive and flexible project management tool",
+"main": "index.js",
+"scripts": {},
+"repository": {
+"type": "git",
+"url": "https://github.com/milai67/SynergisticSpectra.git"
+},
+"keywords": [
+"sample",
+"npm",
+"package"
+],
+"author": "milai67",
+"license": "MIT",
+"dependencies": {
+"lodash": "^4.17.21",
+"axios": "^0.21.1"
+},
+"peerDependencies": {
+"react": ">=16.8.0",
+"react-dom": ">=16.8.0"
+}
+}
